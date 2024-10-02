@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nadella Teja and I'm a Data Scientist and python fullstack web developer</h2>
+<h2 align="center">Hi 👋! My name is Nadella Teja and I'm a Data Scientist and python fullstack web developer..</h2>
 
 ###
 
