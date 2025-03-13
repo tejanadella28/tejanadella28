@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nadella Teja , I'm a Data Scientist and python fullstack web developer..</h2>
+<h2 align="center">Hi 👋! My name is Nadella Teja, I'm a Data Scientist and Python Fullstack Web Developer.</h2>
 
 ###
 
@@ -46,8 +46,8 @@
   <a href="mailto:tejanadella2828@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/tejanadella2828" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/u/aSdQNxMQ4V/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
