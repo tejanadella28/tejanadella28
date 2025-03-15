@@ -45,7 +45,7 @@
   <a href="mailto:tejanadella2828@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://leetcode.com/tejanadella2828/" target="_blank">
+  <a href="https://leetcode.com/u/aSdQNxMQ4V/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="leetcode logo"  />
   </a>
   <a href="https://www.geeksforgeeks.org/user/tejanadella/" target="_blank">
