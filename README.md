@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=190&section=header&text=Nadella%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Python%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="header" />
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Nadella+Teja;Welcome+to+my+Profile!;Data+Scientist;Python+Developer;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
@@ -87,6 +91,10 @@ Other        ██░░░░░░░░░░░░░░░░░   10.00 %
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" alt="footer" />
 </div>
 
 <p align="center">
