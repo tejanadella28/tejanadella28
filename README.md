@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Nadella Teja
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=190&section=header&text=Nadella%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Python%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="header" />
 </div>
