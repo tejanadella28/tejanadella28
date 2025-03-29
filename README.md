@@ -1,13 +1,15 @@
+# Hi there! 👋 I'm Nadella Teja
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=190&section=header&text=Nadella%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Python%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Nadella+Teja;Welcome+to+my+Profile!;Data+Scientist;Python+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Nadella+Teja;Welcome+to+my+Profile!;Data+Scientist;Python+Developer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+Python+Full+Stack+Developer;Passionate+about+creating+impactful+solutions;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=70&lines=Data+Scientist+%26+Python+Full+Stack+Developer;Passionate+about+creating+impactful+solutions;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
 </h3>
 
 <div align="center">
