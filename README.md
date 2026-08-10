@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nadella%20Teja&fontSize=72&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Developer%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50&descSize=18&descColor=c4b5fd" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=🤖+Building+Agentic+AI+Systems+that+Think+%26+Act;🔗+RAG+Pipelines+%7C+LLM+Orchestration+%7C+Multi-Agent+Flows;⚡+FastAPI+%7C+LangGraph+%7C+CrewAI+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=860&height=50&lines=Building+Agentic+AI+Systems+that+Think+%26+Act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Multi-Agent+Flows;FastAPI+%7C+LangGraph+%7C+CrewAI+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=TejaNadella28&style=flat-square&color=7c3aed&label=Profile+Views" />
@@ -95,29 +95,20 @@ class TejaBuilder:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TejaNadella28&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TejaNadella28&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="Streak Stats" />
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNadella28&layout=donut&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" alt="Top Languages Donut" />
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNadella28&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=TejaNadella28&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TejaNadella28&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNadella28&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=TejaNadella28&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Wakatime Stats" />
+
 </div>
 
----
-
-## 🚀 Projects
-
-| | Project | Stack |
-|---|---|---|
-| 🩸 | **Blood Donor Mapping Platform** | React · FastAPI · AWS · Gemini · Terraform |
-| 🧠 | **RAG Assessment Recommender** | FAISS · Groq LLaMA · LangSmith · RAGAS |
-| 💳 | **Fraud Analytics Platform** | XGBoost · SHAP · FastAPI · Streamlit |
-| 🪵 | **LLM Log Classifier** | Regex · Sentence Transformers · LLM Fallback |
-| 🏥 | **Hospital Discharge Automation** | Agentic Pipeline · FastAPI · GCP |
-| ⚡ | **FlowSync AI SaaS** | LangGraph · RBAC · Multi-tenant · FastAPI |
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNadella28&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -130,6 +121,19 @@ SQL              ███░░░░░░░░░░░░░░░░░   
 Java             ██░░░░░░░░░░░░░░░░░░    8%   DSA / OOP
 Other            ██░░░░░░░░░░░░░░░░░░    7%   Bash · YAML · HCL
 ```
+
+---
+
+## 📜 Research & IP
+
+<div align="center">
+
+| | |
+|---|---|
+| 📄 **Publication** | Cyberbullying & Hate Speech Detection using SVM + BERT — *IJESAT Vol.26, Issue 5, May 2026* |
+| 🔒 **Patent** | AI System Patent — Filed ✅ |
+
+</div>
 
 ---
 
